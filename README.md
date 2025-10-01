@@ -1,4 +1,2 @@
-# 1770623-eng.github.io
-so i haveth a github site...
-was that a deltarune reference?
-idk but look! i have my site! looking to put stuff here but not sure what
+# the placeholder
+so this is a site that i made solely for the purpose of minimizing google site restrictions. find it on my github repo and play around! im still learning how to use this tho :P

@@ -329,7 +329,7 @@ class EmulatorJS {
         if (typeof color !== "string") color = "";
         let getColor = function(color) {
             color = color.toLowerCase();
-            if (color && /^#([0-9a-fA-f]{3}|[0-9a-fA-f]{6})$/.test(color)) {
+            if (color && /^#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$/.test(color)) {
                 if (color.length === 4) {
                     let rv = "#";
                     for (let i = 1; i < 4; i++) {
